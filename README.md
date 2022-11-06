@@ -20,22 +20,21 @@
 ## Wiki Ideas:
 - [ ] Closed Wiki Pages, but with Community Edit Requests and Advice
 
+## Running and Building: 
 
-# Running and Building: 
-
-## Project Setup:
+### Project Setup:
 
 ```
 npm install
 ```
 
-## Compile and Hot-Reload for Development
+### Compile and Hot-Reload for Development
 
 ```
 npm run dev
 ```
 
-## Compile and Minify for Production
+### Compile and Minify for Production
 
 ```
 npm run build
