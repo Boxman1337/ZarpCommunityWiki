@@ -1,6 +1,7 @@
 <template>
-    <div class="container">
-        <img id="logo" src="../assets/images/ZarpCustomLogo.png">
+    <div class="HeaderContainer">
+        <img id="HeaderLogo" src="../assets/images/ZarpCustomLogo.png">
+        <NavBar/>
     </div> 
 </template>
 
@@ -12,9 +13,13 @@
 
 <script>
 
+    import NavBar from "./NavBar.vue"
+
     export default {
         name: 'Header',
-        components: {}
+        components: {
+            NavBar
+        }
     }
 
 </script>
@@ -23,18 +28,15 @@
 
 <style scoped>
 
-    .container {
+    .HeaderContainer {
         height: 100px;
         width: auto;
-
-        border: 2px solid #d4d4d4;
-        border-radius: 25px;
-
-        background-color: #447321;
     }
 
-    #logo {
+    #HeaderLogo {
         height: 85px;
+
+        position: absolute;
 
         padding-top: 10px;
         padding-left: 25px;
