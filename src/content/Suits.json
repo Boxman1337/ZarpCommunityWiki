@@ -1,0 +1,120 @@
+{
+    "Suits": [{
+            "Name": "Regen Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Steel Plate": 300,
+                        "Defibrilator": 2,
+                        "Steel Helmet": 1
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        },
+        {
+            "Name": "Quantum Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Reinforced Steel": 30,
+                        "Radioactive Plate": 25,
+                        "Steel Helmet": 1,
+                        "Steel Plate": 300,
+                        "Uranium": 200
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        },
+        {
+            "Name": "Agility Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Reinforced Steel": 40,
+                        "Steel Helmet": 1,
+                        "Steel Plate": 300,
+                        "Uranium": 150,
+                        "Spring": 50
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        },
+        {
+            "Name": "Base Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Reinforced Steel": 30,
+                        "Radioactive Plate": 10,
+                        "Steel Helmet": 1,
+                        "Steel Plate": 300,
+                        "Diamond Printer": 5
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        },
+        {
+            "Name": "Combat Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Reinforced Steel": 30,
+                        "Steel Helmet": 1,
+                        "Steel Plate": 300,
+                        "Uranium": 150,
+                        "Spring": 50
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        },
+        {
+            "Name": "Shield Suit",
+            "Description": "N/A",
+            "MaxHP": "N/A",
+            "MaxArmor": "N/A",
+            "Properties": {},
+            "Acquisition": {
+                "Crafting": {
+                    "CraftingLevelRequired": 5,
+                    "CraftingCost": {
+                        "Steel Plate": 300,
+                        "Steel Helmet": 1,
+                        "Armored Plate": 50
+                    },
+                    "CraftingTime": "N/A"
+                }
+            }
+        }
+    ]
+
+}
