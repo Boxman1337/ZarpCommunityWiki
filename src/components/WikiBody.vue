@@ -1,8 +1,6 @@
 <template>
     <div class="WikiBodyContainer">
-        <div class="VerticalNavBar">
-
-        </div>
+        <div class="VerticalNavBar"></div>
     </div>
 </template>
 
@@ -25,14 +23,22 @@
         height: 600px;
         width: 80%;
 
-        display: flex;
-
         margin: auto;
-        margin-top: 35px;
+        margin-top: 10px;
 
         border-radius: 10px;
 
-        background-color: rgb(32, 30, 30);
+        background-color: rgb(51, 48, 48);
+    }
+
+    .VerticalNavBar {
+
+        height: 600px;
+        width: 250px;
+
+        border-radius: 10px 0px 0px 10px;
+
+        background-color: rgb(31, 30, 31); 
     }
 
 </style>
