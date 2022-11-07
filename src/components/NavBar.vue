@@ -53,7 +53,7 @@
     }
 
     .NavBarContainer .NavBarServer {
-        background: linear-gradient(to bottom right, #2fce77, #c9ebd8);
+        background: linear-gradient(to bottom right, #6CD051, #c9ebd8);
         background-clip: text;
         color: transparent;
     }
@@ -73,7 +73,7 @@
         margin-top: 70px;
         margin-left: 405px;
 
-        background: linear-gradient(to bottom right, #2fce77, #c9ebd8);
+        background: linear-gradient(to bottom right, #6CD051, #c9ebd8);
     }
 
     .NavBarCommsLine {
