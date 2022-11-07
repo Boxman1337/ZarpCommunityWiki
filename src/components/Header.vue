@@ -11,33 +11,34 @@
 
 
 <script>
-export default {
-    name: 'Header',
-    components: {}
-}
+
+    export default {
+        name: 'Header',
+        components: {}
+    }
+
 </script>
 
 
 
 <style scoped>
 
-.container {
-    height: 100px;
-    width: auto;
+    .container {
+        height: 100px;
+        width: auto;
 
-    border: 2px solid #d4d4d4;
-    border-radius: 25px;
+        border: 2px solid #d4d4d4;
+        border-radius: 25px;
 
-    background-color: #447321;
-    opacity: 0.8;
-}
+        background-color: #447321;
+    }
 
-#logo {
-    height: 85px;
+    #logo {
+        height: 85px;
 
-    padding-top: 8px;
-    padding-left: 10px;
-}
+        padding-top: 10px;
+        padding-left: 25px;
+    }
 
 
 </style>
